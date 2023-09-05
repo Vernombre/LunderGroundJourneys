@@ -92,7 +92,7 @@ The p-value is now below the significance level of 5%, but for the 1st order dif
 
 ### STL decomposition
 
-Other characteristics seen in the series can by quantified by using Seasonal-Trend decomposition using LOESS (STL) on the differenced data:
+Other characteristics seen in the series can by quantified by using [Seasonal-Trend decomposition using LOESS (STL)](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/) on the differenced data:
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/95b8ac4c-25ed-4eac-b91a-04f5787ff449)
 
