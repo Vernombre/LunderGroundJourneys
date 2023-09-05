@@ -68,7 +68,7 @@ Key characteristics can already be seen in the time series data:
 
 ### Stationarity
 
-The data appears to be non-stationary, and this can be confirmed with an Augmented Dickey-Fuller test:
+The data appears to be [non-stationary](https://machinelearningmastery.com/time-series-data-stationary-python/), and this can be confirmed with an Augmented Dickey-Fuller test:
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/43501df4-cde4-464c-86f5-0aaf64fa6380)
 
