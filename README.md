@@ -163,7 +163,7 @@ Prophet is a tool that should make time series forecasting simpler without the n
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/cbc04273-2980-45dc-adee-966fc36b7092)
 
-Prophet’s struggles with data affected by COVID-19 are well documented (Sarem, 2022) though there are ways to mitigate this (Prophet, 2023).
+Prophet’s struggles with data affected by COVID-19 are [well documented](https://www.sarem-seitz.com/posts/facebook-prophet-covid-and-why-i-dont-trust-the-prophet.html) though there are ways to [mitigate this](https://facebook.github.io/prophet/docs/handling_shocks.html).
 
 ## Conclusions
 
