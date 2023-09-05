@@ -40,7 +40,7 @@ _Table 1. TfL’s Journey Type dataset_
 
 Each year in the data is divided into 13 periods, mostly of 28 days, but this can vary a bit on the first and last periods of the financial year.  This is not ideal for the type of models that will be applied to this dataset. Ideally a consistent frequency of observations is needed, or at least for the data to be formatted in a more commonly used way.
 
-Initially, the Days in period variable was used to transform Undergrounds journeys (m) into Passengers Per Day (PPD) for each item in the dataset.  This data was then resampled (Hallouard, 2020) to provide two new datasets.  Firstly, the data was downsampled to provide daily breakdown of the data, with linear interpolation used to fill in the missing values.  This daily data can then be upsampled into monthly values comprised of the arithmetic mean of the daily values.
+Initially, the Days in period variable was used to transform Undergrounds journeys (m) into Passengers Per Day (PPD) for each item in the dataset.  This data was then [resampled](https://medium.com/totalenergies-digital-factory/time-series-the-problem-with-resampling-7baea5a3873c) to provide two new datasets.  Firstly, the data was downsampled to provide daily breakdown of the data, with linear interpolation used to fill in the missing values.  This daily data can then be upsampled into monthly values comprised of the arithmetic mean of the daily values.
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/6d13d540-6f06-4f21-b9f1-7999aa4a9b0d)
 
