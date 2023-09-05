@@ -167,10 +167,42 @@ Prophet’s struggles with data affected by COVID-19 are [well documented](https
 
 ## Conclusions
 
-The last time a record was set for passenger numbers on the London Underground was Christmas 2015 (TfL, 2015).  By fitting the best model from above it would seem this record may not be broken until Christmas of 2026:
+The last time a record was set for passenger numbers on the London Underground was Christmas 2015 (TfL, 2015).  By fitting the best model from above it would seem this record may not be broken until just before Christmas of 2026:
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/f8549cb9-78df-487c-b05e-6912724134f1)
 
 _Figure 10. Chart showing when the Auto ARIMA forecast will reach previous max number of passengers per day._
 
 Is this likely to be accurate?  Maybe…but probably not.  The record was last broken in 2015 not 2019, it may be the case that this record is never broken again.  For a system as complicated as London’s transport network, of which the underground is just one part, analysis of solely headline figures such as passenger numbers is likely to be lacking.  Models that incorporate [covariates](https://community.alteryx.com/t5/Data-Science/Back-to-the-Future-ARIMA-and-Forecasting-with-Covariates/ba-p/615858) from socioeconomic factors through to the weather, are likely to be more effective.
+
+## References and Further Reading
+
+BBC News. (2023) London Underground: Journeys reach 90% of pre-pandemic levels. BBC News. [online] 7 Jun. Available at: https://www.bbc.co.uk/news/uk-england-london-65821633 [Accessed 30 Aug. 2023].
+
+Brownlee, J. (2017). How to Decompose Time Series Data into Trend and Seasonality. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/.
+
+Brownlee, J. (2016). How to Check if Time Series Data is Stationary with Python. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/time-series-data-stationary-python/.
+
+Jason Brownlee (2017). How to Create an ARIMA Model for Time Series Forecasting in Python. [online] Machine Learning Mastery. Available at: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/.
+
+Hallouard, Y. (2020). Time Series: The problem with resampling. [online] TotalEnergies Digital Factory. Available at: https://medium.com/totalenergies-digital-factory/time-series-the-problem-with-resampling-7baea5a3873c [Accessed 31 Aug. 2023].
+
+Leonie. (2022). Time Series: Interpreting ACF and PACF. [online] Available at: https://www.kaggle.com/code/iamleonie/time-series-interpreting-acf-and-pacf.
+
+Prophet. (2023). Handling Shocks. [online] Available at: https://facebook.github.io/prophet/docs/handling_shocks.html.
+
+Sarem (2022). Sarem Seitz - Facebook Prophet, Covid and why I don’t trust the Prophet. [online] www.sarem-seitz.com. Available at: https://www.sarem-seitz.com/posts/facebook-prophet-covid-and-why-i-dont-trust-the-prophet.html [Accessed 4 Sep. 2023].
+
+Sivek, S. (2020). Back to the Future: ARIMA and Forecasting with Covariates. [online] Available at: https://community.alteryx.com/t5/Data-Science/Back-to-the-Future-ARIMA-and-Forecasting-with-Covariates/ba-p/615858 [Accessed 5 Sep. 2023].
+
+Transport for London. (2023). Wi-Fi data collection. [online] Transport for London. Available at: https://tfl.gov.uk/corporate/privacy-and-cookies/wi-fi-data-collection
+
+Transport for London. (2012) Drivers of Demand for Travel in London: A review of trends in travel demand and their causes. Available at: https://content.tfl.gov.uk/drivers-of-demand-for-travel-in-london.pdf.
+
+Transport for London (2015). London Underground breaks the record again for busiest day ever on the Tube. [online] Transport for London. Available at: https://tfl.gov.uk/info-for/media/press-releases/2015/december/london-underground-breaks-the-record-again-for-busiest-day-ever-on-the-tube#:~:text=On%20Friday%204%20December%202015 [Accessed 5 Sep. 2023].
+
+Pulagam, S. (2020). Time Series forecasting using Auto ARIMA in python. [online] Medium. Available at: https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd.
+
+Verma, Y. (2021). Complete Guide To SARIMAX in Python for Time Series Modeling. [online] Available at: https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/.
+
+
