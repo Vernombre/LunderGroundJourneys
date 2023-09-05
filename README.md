@@ -141,7 +141,7 @@ Seasonality is now included in the forecast though there is still a linear upwar
 
 ### Auto ARIMA
 
-To find more optimal parameters to model the data Auto ARIMA can be used.  Auto Arima can perform a stepwise (or parallel) iterative process to find the optimal parameters for an ARIMA model, aimed at reducing the prediction error by minimising the information criterion.  
+To find more optimal parameters to model the data [Auto ARIMA](https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd) can be used.  Auto Arima can perform a stepwise (or parallel) iterative process to find the optimal parameters for an ARIMA model, aimed at reducing the prediction error by minimising the information criterion.  
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/7c492b30-4cab-40da-8f72-b72203cf7d9e)
 
