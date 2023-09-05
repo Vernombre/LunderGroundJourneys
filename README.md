@@ -13,7 +13,7 @@ The aim of this analysis is to see how well machine learning models can be used 
 ## Project Structure
 
 - 📁 [Data](https://github.com/Vernombre/LunderGroundJourneys/tree/main/Data): This folder contains the raw data files downloaded from TfL.
-- 📁 [London_Underground_Journey_Analysis](https://github.com/Vernombre/LunderGroundJourneys/blob/main/London_Underground_Journeys_Analysis.ipynb): The Colab workbook in which the data was transformed and analysed
+- 📁 [London_Underground_Journey_Analysis](https://github.com/Vernombre/LunderGroundJourneys/blob/main/London_Underground_Journeys_Analysis.ipynb): The Colab workbook in which the data was transformed and analysed.
 
 ## Data
 
