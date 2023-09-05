@@ -15,6 +15,19 @@ The aim of this analysis is to see how well machine learning models can be used 
 - 📁 [Data](https://github.com/Vernombre/LunderGroundJourneys/tree/main/Data): This folder contains the raw data files downloaded from TfL.
 - 📁 [London_Underground_Journey_Analysis](https://github.com/Vernombre/LunderGroundJourneys/blob/main/London_Underground_Journeys_Analysis.ipynb): The Colab workbook in which the data was transformed and analysed.
 
+## Tools
+
+In this project the following tools and libraries were used:
+
++ Python - Programming language
++ Pandas - Data manipulation library
++ Numpy - Scientific maths library
++ Matplotlib - Data visualisation library
++ Datetime - Date manipulation library
++ Statsmodels - Statistical library
++ Pmdarima - Statistical library
++ Prophet - Forecasting library
+
 ## Data
 
 ### ETL
