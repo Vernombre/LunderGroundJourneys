@@ -102,7 +102,7 @@ The trend seen in the original time series has largely disappeared since the ser
 
 ### ACF and PACF
 
-The correlations between the individual values in the time series can be analysed by applying an Autocorrelation Function (ACF) and partial Autocorrelation Function (PACF):
+The correlations between the individual values in the time series can be analysed by applying an [Autocorrelation Function (ACF) and partial Autocorrelation Function (PACF)](https://www.kaggle.com/code/iamleonie/time-series-interpreting-acf-and-pacf):
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/83abecda-83ef-4305-83ec-71808b6d5f7e)
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/0b270cb7-cb67-49dd-ab83-ef413eaf7014)
