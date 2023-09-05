@@ -131,7 +131,7 @@ Whilst the model fits the data fairly well the limitations can be seen in the fo
 
 ### SARIMAX
 
-The SARIMAX model is a variation of ARIMA that includes seasonality.  As we have a strong yearly seasonality this can be incorporated by SARIMAX:
+The [SARIMAX](https://analyticsindiamag.com/complete-guide-to-sarimax-in-python-for-time-series-modeling/) model is a variation of ARIMA that includes seasonality.  As we have a strong yearly seasonality this can be incorporated by SARIMAX:
 
 ![image](https://github.com/Vernombre/LunderGroundJourneys/assets/111520178/84d01d86-d437-4c36-b990-4193e55e019b)
 
