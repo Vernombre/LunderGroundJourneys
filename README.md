@@ -115,7 +115,7 @@ The ACF shows significant spikes at lag 1,6,11 and 12 showing a strong correlati
 
 ### ARIMA
 
-The AutoRegressive Integrated Moving Average (ARIMA) statistical model will be applied to dataset first, though this is not necessarily ideal since the model does not account well for the seasonality in the data.  ARIMA uses three parameters to model time series data:
+[The AutoRegressive Integrated Moving Average (ARIMA)](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/) statistical model will be applied to dataset first, though this is not necessarily ideal since the model does not account well for the seasonality in the data.  ARIMA uses three parameters to model time series data:
 
 •	P (Auto Regression): the number of autoregressive terms to be used.  Due to the four significant lag values in the PACF this will be set to 4.
 
