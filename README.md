@@ -10,6 +10,11 @@ Of course, the largest single factor affecting passenger demand between 2010 and
 
 The aim of this analysis is to see how well machine learning models can be used to analyse this sort of time series data as well as to forecast when passenger numbers on the London underground are likely to reach pre pandemic levels.  Of particular interest will be seeing how well these models deal with the impact of the COVID-19 pandemic and its consequent effects on passenger numbers.
 
+## Project Structure
+
+- 📁 [Data](https://github.com/Vernombre/LunderGroundJourneys/tree/main/Data): This folder contains the raw data files downloaded from TfL.
+- 📁 [London_Underground_Journey_Analysis](https://github.com/Vernombre/LunderGroundJourneys/blob/main/London_Underground_Journeys_Analysis.ipynb): The Colab workbook in which the data was transformed and analysed
+
 ## Data
 
 ### ETL
